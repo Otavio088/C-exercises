@@ -39,12 +39,12 @@ The repository is structured as follows:
 
 ## ⚙️ How to Run the Exercises  
 
-1. Clone this repository:  
+1️⃣ Clone this repository:  
    ```sh
    git clone https://github.com/Otavio088/C-exercises.git
    ```
-2. Open the repository folder in VS Code.  
-3. To run an exercise, open the desired file and compile it by pressing **"F6"**.  
+2️⃣ Open the repository folder in VS Code.  
+3️⃣ To run an exercise, open the desired file and compile it by pressing **"F6"**.  
 
 ##
-🚀 Developed by *Otávio Augusto de Melo Ribeiro*.
+🚀 Developed by **Otávio Augusto de Melo Ribeiro**.
